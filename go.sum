@@ -47,6 +47,8 @@ github.com/rajatagarwal/project-utils/redis v0.0.0-20210618085800-6aedb4f734f1 h
 github.com/rajatagarwal/project-utils/redis v0.0.0-20210618085800-6aedb4f734f1/go.mod h1:Qr3S6L3wbzYw5vYG52T3jjdlVfNiYa5UjLXBneXwqoI=
 github.com/rajatagarwal/project-utils/redis v0.0.0-20210618091301-77f1a93b55db h1:Dh92vAb8ixcMHMrU+oVUfa2bT0LySqlMcIiIBySp4Ao=
 github.com/rajatagarwal/project-utils/redis v0.0.0-20210618091301-77f1a93b55db/go.mod h1:Qr3S6L3wbzYw5vYG52T3jjdlVfNiYa5UjLXBneXwqoI=
+github.com/rajatagarwal/project-utils/redis v0.0.0-20210618092536-a66b0b9fd4f2 h1:/urF/N2EAZftFGJeg4ItShsln0wRPJFc+LY+I1+Lfso=
+github.com/rajatagarwal/project-utils/redis v0.0.0-20210618092536-a66b0b9fd4f2/go.mod h1:Qr3S6L3wbzYw5vYG52T3jjdlVfNiYa5UjLXBneXwqoI=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
